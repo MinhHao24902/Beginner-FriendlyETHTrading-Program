@@ -1,0 +1,46 @@
+[
+  {
+    "index": 0,
+    "time": "1995-01-01T00:00:00.000Z",
+    "prev_hash": "0000",
+    "hash": "1A1B",
+    "tx": {
+      "id": "",
+      "inputs": [],
+      "outputs": []
+    },
+    "validator": {
+      "addr": "",
+      "signature": "",
+      "token": 0
+    }
+  },
+  {
+    "index": 1,
+    "timestamp": "1:03:30 PM",
+    "pre_hash": "1A1B",
+    "hash": "f9e373ec2d0459d44cc1e36dfdc5da711d80c9e041a22a147df50d1e7db580e7",
+    "tx": {
+      "id": "e2c8adb8-529e-4501-b377-b78745041883",
+      "inputs": [
+        {
+          "time": "2024-05-02T06:03:30.163Z",
+          "from": "HaoWallet",
+          "signature": "Ten toi la Hao. Toi dong y chuyen tien cho Thay Tan"
+        }
+      ],
+      "outputs": [
+        {
+          "to": "ThayTanWallet",
+          "amount": 20,
+          "fee": 3
+        }
+      ]
+    },
+    "validator": {
+      "addr": "TriWallet",
+      "signature": "Toi chiu trach nhiem kiem tra cac giao dich",
+      "token": 3
+    }
+  }
+]
